@@ -1,3 +1,3 @@
 # ACHIEVEMENTS
 # PR Achievement
-# Reviwer Achievement
+# Reviewer Achievement
